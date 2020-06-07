@@ -1,0 +1,22 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithmo/myportfolio.git"
+  },
+  "author": "MohammedAli Momin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewithmo/myportfolio/issues"
+  },
+  "homepage": "https://github.com/codewithmo/myportfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
